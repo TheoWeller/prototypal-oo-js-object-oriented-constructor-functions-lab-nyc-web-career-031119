@@ -5,3 +5,11 @@ class Scooter{
     this.mode = mode;
   }
 }
+
+class Driver {
+  constructor(name, age, expierence){
+    this.name = name;
+    this.age = age;
+    this.expierence = expierence;
+  }
+}
