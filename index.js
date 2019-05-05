@@ -13,3 +13,10 @@ class Driver {
     this.expierence = expierence;
   }
 }
+
+class PickupLocation{
+  constructor(address, city){
+    this.address = address;
+    this.city = city;
+  }
+}
