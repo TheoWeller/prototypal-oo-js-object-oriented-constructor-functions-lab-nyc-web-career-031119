@@ -1,4 +1,4 @@
-class Scooter{
+class Scooter {
   constructor(year, color, mode){
     this.year = year;
     this.color = color;
@@ -14,7 +14,7 @@ class Driver {
   }
 }
 
-class PickupLocation{
+class PickupLocation {
   constructor(address, city){
     this.address = address;
     this.city = city;
